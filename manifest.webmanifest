@@ -1,0 +1,19 @@
+{
+  "name": "Erastus Ndundu Services",
+  "short_name": "Erastus Ndundu",
+  "description": "Furniture assembly, upholstery, sofa fabric changing, repairs, custom cabinetry and carpet fitting.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0d1830",
+  "theme_color": "#173b78",
+  "lang": "en-KE",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
